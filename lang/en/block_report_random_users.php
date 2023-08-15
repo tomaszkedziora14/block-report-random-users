@@ -1,5 +1,5 @@
 <?php
 
-$string['pluginname'] = 'Random Users Report';
+$string['pluginname'] = 'Report Random Users';
 $string['enrolledcourses'] = 'Enrolled Courses';
 
